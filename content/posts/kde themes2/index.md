@@ -4,6 +4,8 @@ title : "test"
 tags : ["لينيكس", "تخصيص سطح مكتب", "KDE"]
 categories : ["guides"]
 
+summary : "I made this littile summary tp test this script"
+
 showAuthor: true
 authors:
   - "kortas"
