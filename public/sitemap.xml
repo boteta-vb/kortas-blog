@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/kortas-blog/posts/lain/</loc>
+    <loc>https://kortas12.github.io/kortas-blog/posts/lain/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kortas-blog/</loc>
+    <loc>https://kortas12.github.io/kortas-blog/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kortas-blog/posts/kde-themes/</loc>
+    <loc>https://kortas12.github.io/kortas-blog/posts/kde-themes2/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kortas-blog/posts/</loc>
+    <loc>https://kortas12.github.io/kortas-blog/posts/kde-themes/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kortas12.github.io/kortas-blog/posts/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
